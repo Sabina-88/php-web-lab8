@@ -1,5 +1,4 @@
 -- Схема бази даних застосунку «Кінотека» (практикуми 4–8, варіант 5).
--- Виконайте файл у MySQL Workbench, щоб відтворити структуру з нуля.
 
 CREATE DATABASE IF NOT EXISTS practicum4 CHARACTER SET utf8mb4;
 USE practicum4;
